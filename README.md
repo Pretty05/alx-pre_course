@@ -1,1 +1,1 @@
-My first readme
+Pretty ALX Student
